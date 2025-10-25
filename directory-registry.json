@@ -1,17 +1,26 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-10-25T21:01:09.450190Z",
+  "lastUpdated": "2025-10-25T21:01:12.541860Z",
   "stats": {
-    "totalDirectories": 0,
+    "totalDirectories": 1,
     "totalRepos": 1,
-    "avgDirectoriesPerRepo": 0,
-    "totalListings": 0
+    "avgDirectoriesPerRepo": 1.0,
+    "totalListings": 3
   },
-  "directories": {},
+  "directories": {
+    "test-mobile-dog-groomers": {
+      "repo": "offren-directories-batch-001",
+      "created": "2025-10-25T21:01:11.994175Z",
+      "lastUpdated": "2025-10-25T21:01:11.994184Z",
+      "status": "active",
+      "listingsCount": 3,
+      "opportunityScore": 85
+    }
+  },
   "repos": {
     "offren-directories-batch-001": {
       "created": "2025-10-25T21:01:08.977971Z",
-      "directoryCount": 0,
+      "directoryCount": 1,
       "status": "active",
       "sizeMB": 0.001,
       "batchNumber": 1
